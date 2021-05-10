@@ -1,0 +1,5 @@
+1.安装maven
+2.练习maven常用命令
+3.idea集成maven插件
+4.创建maven的jar工程和web工程
+5.创建maven工程读取数据库数据

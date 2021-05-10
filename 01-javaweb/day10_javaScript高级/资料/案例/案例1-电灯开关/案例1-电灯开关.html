@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    
+    <script>
+
+        var flag = false;//代表关闭
+        function fun(){
+            var light = document.getElementById("light");
+            if(flag){
+                light.src="img/off.gif";
+                flag = false;
+            }else{
+                light.src="img/on.gif";
+                flag = true;
+            }
+        }
+    </script>
+    
+</head>
+<body>
+<img id="light" onclick="fun();" src="img/off.gif" alt="">
+</body>
+</html>

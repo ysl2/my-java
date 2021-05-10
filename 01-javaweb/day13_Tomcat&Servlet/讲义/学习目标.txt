@@ -1,0 +1,8 @@
+学习目标：
+1.理解WEB相关概念和WEB服务器概述
+2.会安装、卸载、启动和关闭tomcat
+3.掌握使用tomcat部署项目
+4.能够创建动态WEB项目和tomcat与IDEA集成配置
+5.了解Servlet概念
+6.掌握Servlet的执行原理和生命周期
+7.了解Servvlet3.0注解配置
